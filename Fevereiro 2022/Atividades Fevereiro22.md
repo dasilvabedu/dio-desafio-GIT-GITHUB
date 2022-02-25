@@ -1,8 +1,8 @@
-#Atividades Concluídas no Bootcamp Eduzz
-##Links Úteis
+# Atividades Concluídas no Bootcamp Eduzz
+## Links Úteis
 [Acesso ao bootcamp](https://web.dio.me/track/eduzz-fullstack-developer-3?tab=path)
 
-##Concluídos até 25/02/2022:
+## Concluídos até 25/02/2022:
 Vídeo Boas Vindas
 Live da Aula inaugural
 Curso Lógica de Programação Essencial
